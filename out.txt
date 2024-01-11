@@ -1,0 +1,421 @@
+TITULOS
+A
+B
+C
+D
+E
+F
+G
+I
+J
+L
+M
+O
+P
+R
+S
+T
+Z
+LISTA
+[
+  {
+    "Titulo": "Absentismo Escolar",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=1"
+  },
+  {
+    "Titulo": "Accesibilidad y Eliminaci\u00f3n de Barreras",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=99"
+  },
+  {
+    "Titulo": "Acceso a la universidad",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=2"
+  },
+  {
+    "Titulo": "Accidentes Escolares o por Desplazamientos",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=4"
+  },
+  {
+    "Titulo": "Acci\u00f3n Tutorial",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=3"
+  },
+  {
+    "Titulo": "Actividades Complementarias y Extraescolares",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=5"
+  },
+  {
+    "Titulo": "Administraci\u00f3n Electr\u00f3nica y Procedimiento Administrativo",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=96"
+  },
+  {
+    "Titulo": "Arte Dram\u00e1tico",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=6"
+  },
+  {
+    "Titulo": "Artes Pl\u00e1sticas y Dise\u00f1o",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=7"
+  },
+  {
+    "Titulo": "Asesor\u00eda M\u00e9dica",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=9"
+  },
+  {
+    "Titulo": "Asociaciones de Madres y Padres del Alumnado y Asociaciones de Alumnos/as",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=10"
+  },
+  {
+    "Titulo": "Atenci\u00f3n a la Diversidad",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=11"
+  },
+  {
+    "Titulo": "Aulas Excelencia Art\u00edstica",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=117"
+  },
+  {
+    "Titulo": "Bachillerato",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=13"
+  },
+  {
+    "Titulo": "Calendario y Jornada Escolar",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=16"
+  },
+  {
+    "Titulo": "Centros Docentes",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=17"
+  },
+  {
+    "Titulo": "Colegios Rurales",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=18"
+  },
+  {
+    "Titulo": "Comedor Escolar",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=19"
+  },
+  {
+    "Titulo": "Comisiones de Servicio",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=20"
+  },
+  {
+    "Titulo": "Conciertos Educativos",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=23"
+  },
+  {
+    "Titulo": "Consejer\u00eda de Educaci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=24"
+  },
+  {
+    "Titulo": "Consejo Escolar Territorial",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=25"
+  },
+  {
+    "Titulo": "Conservaci\u00f3n y Restauraci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=111"
+  },
+  {
+    "Titulo": "Convalidaciones y Equivalencias",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=26"
+  },
+  {
+    "Titulo": "Convivencia Escolar",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=27"
+  },
+  {
+    "Titulo": "Cooperaci\u00f3n con Entidades Locales",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=28"
+  },
+  {
+    "Titulo": "Cultura Andaluza",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=29"
+  },
+  {
+    "Titulo": "Cultura Emprendedora",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=103"
+  },
+  {
+    "Titulo": "Danza",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=30"
+  },
+  {
+    "Titulo": "Departamento de Orientaci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=31"
+  },
+  {
+    "Titulo": "Deporte Escolar",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=32"
+  },
+  {
+    "Titulo": "Directrices de T\u00e9cnica Normativa",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=101"
+  },
+  {
+    "Titulo": "Educaci\u00f3n Compensatoria",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=21"
+  },
+  {
+    "Titulo": "Educaci\u00f3n Especial",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=36"
+  },
+  {
+    "Titulo": "Educaci\u00f3n Infantil",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=37"
+  },
+  {
+    "Titulo": "Educaci\u00f3n Primaria",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=38"
+  },
+  {
+    "Titulo": "Educaci\u00f3n Secundaria",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=85"
+  },
+  {
+    "Titulo": "Educaci\u00f3n a Distancia",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=110"
+  },
+  {
+    "Titulo": "Educaci\u00f3n de Personas Adultas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=35"
+  },
+  {
+    "Titulo": "Ense\u00f1anzas Art\u00edsticas Superiores",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=107"
+  },
+  {
+    "Titulo": "Ense\u00f1anzas Deportivas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=33"
+  },
+  {
+    "Titulo": "Equipos de Orientaci\u00f3n Educativa",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=39"
+  },
+  {
+    "Titulo": "Escolarizaci\u00f3n y Matriculaci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=40"
+  },
+  {
+    "Titulo": "Escuela Oficial de Idiomas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=41"
+  },
+  {
+    "Titulo": "Estudios Extranjeros no Universitarios",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=42"
+  },
+  {
+    "Titulo": "Evaluaci\u00f3n de Ense\u00f1anzas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=44"
+  },
+  {
+    "Titulo": "Evaluaci\u00f3n del Sistema Educativo",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=116"
+  },
+  {
+    "Titulo": "Formaci\u00f3n Profesional B\u00e1sica",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=106"
+  },
+  {
+    "Titulo": "Formaci\u00f3n Profesional Inicial",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=46"
+  },
+  {
+    "Titulo": "Formaci\u00f3n Profesional para el empleo",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=47"
+  },
+  {
+    "Titulo": "Formaci\u00f3n de Profesorado",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=45"
+  },
+  {
+    "Titulo": "Funcionarios Docentes: Acoso u otra discriminaci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=108"
+  },
+  {
+    "Titulo": "Funcionarios Docentes: Adscripci\u00f3n / Integraci\u00f3n / Especialidades",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=48"
+  },
+  {
+    "Titulo": "Funcionarios Docentes: Asistencia Jur\u00eddica / Responsabilidad / Abstenci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=49"
+  },
+  {
+    "Titulo": "Funcionarios Docentes: Oposiciones / Temarios / Fase de pr\u00e1cticas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=51"
+  },
+  {
+    "Titulo": "Funcionarios Docentes: Procedimiento Disciplinario / Incompatibilidades",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=52"
+  },
+  {
+    "Titulo": "Funcionarios Docentes: Provisi\u00f3n de Puestos / Colocaci\u00f3n Efectivos / Concursos",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=53"
+  },
+  {
+    "Titulo": "Funcionarios Docentes: Retribuciones / Indemnizaciones por Servicio / Jubilaci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=54"
+  },
+  {
+    "Titulo": "Funcionarios Docentes: Salud Laboral",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=50"
+  },
+  {
+    "Titulo": "Gesti\u00f3n Econ\u00f3mica",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=55"
+  },
+  {
+    "Titulo": "Identidad Corporativa",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=100"
+  },
+  {
+    "Titulo": "Inspecci\u00f3n Educativa",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=56"
+  },
+  {
+    "Titulo": "Inspecci\u00f3n Educativa: Oposiciones",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=98"
+  },
+  {
+    "Titulo": "Jornada P.A.S.",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=57"
+  },
+  {
+    "Titulo": "Jornada Personal Docente",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=58"
+  },
+  {
+    "Titulo": "Leyes Auton\u00f3micas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=59"
+  },
+  {
+    "Titulo": "Leyes Ordinarias",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=60"
+  },
+  {
+    "Titulo": "Leyes Org\u00e1nicas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=61"
+  },
+  {
+    "Titulo": "Libro de Calificaciones",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=62"
+  },
+  {
+    "Titulo": "Libros de Texto y Material Curricular",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=63"
+  },
+  {
+    "Titulo": "Licencias y Permisos",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=64"
+  },
+  {
+    "Titulo": "M\u00fasica",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=65"
+  },
+  {
+    "Titulo": "Organizaci\u00f3n y Funcionamiento",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=68"
+  },
+  {
+    "Titulo": "Plan Apoyo Familias",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=71"
+  },
+  {
+    "Titulo": "Plan de Autoprotecci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=72"
+  },
+  {
+    "Titulo": "Plan de Igualdad en Educaci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=73"
+  },
+  {
+    "Titulo": "Plan de Lectura y Bibliotecas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=74"
+  },
+  {
+    "Titulo": "Plan de Pluriling\u00fcismo",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=75"
+  },
+  {
+    "Titulo": "Plan de \u00e9xito educativo",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=112"
+  },
+  {
+    "Titulo": "Plan para el Fomento de la Cultura Emprendedora",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=102"
+  },
+  {
+    "Titulo": "Procedimiento Sancionador",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=84"
+  },
+  {
+    "Titulo": "Programa Bachillerato Internacional",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=115"
+  },
+  {
+    "Titulo": "Programa de Acompa\u00f1amiento",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=77"
+  },
+  {
+    "Titulo": "Programa de Calidad y Mejora de los Rendimientos Escolares",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=78"
+  },
+  {
+    "Titulo": "Protecci\u00f3n y Uso de Datos",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=97"
+  },
+  {
+    "Titulo": "Proyectos de Innovaci\u00f3n e Investigaci\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=93"
+  },
+  {
+    "Titulo": "Pruebas de Diagn\u00f3stico",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=80"
+  },
+  {
+    "Titulo": "Pr\u00e1cticas en Empresas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=76"
+  },
+  {
+    "Titulo": "Religi\u00f3n",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=81"
+  },
+  {
+    "Titulo": "Requisitos M\u00ednimos",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=82"
+  },
+  {
+    "Titulo": "Residencias Escolares",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=83"
+  },
+  {
+    "Titulo": "Sociedad del Conocimiento",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=86"
+  },
+  {
+    "Titulo": "Tabaco y Alcohol",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=88"
+  },
+  {
+    "Titulo": "Tasas Acad\u00e9micas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=89"
+  },
+  {
+    "Titulo": "Titulaciones M\u00ednimas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=91"
+  },
+  {
+    "Titulo": "Transporte Escolar",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=92"
+  },
+  {
+    "Titulo": "T\u00edtulos: Expedici\u00f3n y Registro",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=87"
+  },
+  {
+    "Titulo": "Zonas Educativas",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=104"
+  },
+  {
+    "Titulo": "\u00d3rganos Colegiados",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=69"
+  },
+  {
+    "Titulo": "\u00d3rganos Unipersonales",
+    "Enlace": "https://www.adideandalucia.es/?view=disposicion&cat=70"
+  }
+]
