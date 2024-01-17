@@ -14,6 +14,7 @@ try:
     chrome_options = Options()
     chrome_options.add_argument("--disable-images")
     chrome_options.add_argument("--disable-extensions")
+    chrome_options.add_argument("--start-minimized")
 
     # Configura el controlador del navegador con las opciones
     chrome_path = "../chromedriver.exe"
@@ -34,7 +35,8 @@ try:
     # Recorre Todos los Modulos
     for oneModuleInner in module_elements:
         # Obtiene La letra
-        letter = oneModuleInner.find_element(By.TAG_NAME, 'h3').text
+        letter = oneModuleInner.find_element(
+            By.TAG_NAME, 'h3').text.encode('utf-8').decode('utf-8')
 
         # Si la letra no existe en finalJSON, crea un nuevo diccionario
         if len(letter) == 1:
@@ -51,21 +53,23 @@ try:
                     for td in tr.find_elements(By.TAG_NAME, 'td'):
                         for a in td.find_elements(By.TAG_NAME, 'a'):
                             link = a.get_property('href')
-                            title = a.text
+                            title = a.text.encode('utf-8').decode('utf-8')
 
                             info_data = {"Title": title,
                                          "SectionLink": link, "ListPDF": []}
 
                             try:
                                 # Second page
-                                driver2 = webdriver.Chrome(service=service)
+                                driver2 = webdriver.Chrome(
+                                    service=service, options=chrome_options)
                                 driver2.get(link)
                                 driver2.implicitly_wait(10)
                                 moduleGlobal = driver2.find_element(
                                     By.XPATH, "//ul[@class='lista']")
 
                                 for li in moduleGlobal.find_elements(By.TAG_NAME, 'li'):
-                                    liText = li.text
+                                    liText = li.text.encode(
+                                        'utf-8').decode('utf-8')
                                     for a in li.find_elements(By.TAG_NAME, 'a'):
                                         pdfLink = a.get_property('href')
 
@@ -87,10 +91,10 @@ try:
     # Cierra la página web
     driver.close()
 
-    with open(arc_json, 'w') as archivo:
-        json.dump({"modules": finalJSON}, archivo)
+    with open(arc_json, 'w', encoding="utf-8") as archivo:
+        json.dump({"modules":finalJSON}, archivo)
 
 except Exception as e:
-    with open(arc_json, 'w') as archivo:
+    with open(arc_json, 'w', encoding="utf-8") as archivo:
         json.dump({"modules": finalJSON}, archivo)
     print(f"Error general: {e}")
