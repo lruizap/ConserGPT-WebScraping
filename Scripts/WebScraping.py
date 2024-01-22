@@ -15,6 +15,7 @@ try:
     chrome_options.add_argument("--disable-images")
     chrome_options.add_argument("--disable-extensions")
     chrome_options.add_argument("--start-minimized")
+    chrome_options.add_argument('--headless')
 
     # Configura el controlador del navegador con las opciones
     chrome_path = "../chromedriver.exe"
@@ -92,7 +93,7 @@ try:
     driver.close()
 
     with open(arc_json, 'w', encoding="utf-8") as archivo:
-        json.dump({"modules":finalJSON}, archivo)
+        json.dump({"modules": finalJSON}, archivo)
 
 except Exception as e:
     with open(arc_json, 'w', encoding="utf-8") as archivo:
